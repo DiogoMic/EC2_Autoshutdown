@@ -5,7 +5,7 @@ def lambda_handler(event, context):
     ec2 = boto3.client('ec2')
 
     # Replace 'your-instance-id' with the ID of your EC2 instance
-    instance_id = 'i-02a118bd1b80146cb'
+    instance_id = 'your_instance_id'
 
     # Get the instance's launch time
     response = ec2.describe_instances(InstanceIds=[instance_id])
