@@ -15,6 +15,19 @@ What we are going to do throughout this project
     
 Create an IAM policy:On the pane at the left click policy, at the top right corner click create policy, select and open the json_policy file, copy and paste the **JSON** code snippet on policy editor.
 Give a name to policy, review and create.
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "ec2:StopInstances",
+                "ec2:DescribeInstances"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
 2. Create an IAM Role for Lambda:Now lets head over and create an IAM role that allows Lambda to stop EC2 instances.
     
     Note: We selected Lambda as the Trusted entity and not EC2 because lambda here access the instance not the instance accessing the Lambda. 
