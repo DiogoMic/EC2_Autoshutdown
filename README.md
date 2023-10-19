@@ -14,4 +14,4 @@ What we are going to do throughout this project
 1. Head over to your AWS management console and search for IAM .
     
     Create an IAM policy:On the pane at the left click policy, at the top right corner click create policy, select json and paste the below **JSON** code snippet
-    below is the policy in **json** format
+    below is the policy in **json** format json_policy
