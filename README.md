@@ -1,3 +1,7 @@
+<img width="797" alt="Screenshot 2023-10-21 at 21 16 36" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/924c6338-704a-4537-8db4-92619f652738">
+
+
+
 # EC2_Autoshutdown
 lambda function to shutdown idle EC2 instances for over 30 minuntes
 To create a fucntion that automatically shuts down an EC2 instance when it's idle for more than 30 minutes, you can use a combination of AWS Lambda, CloudWatch Events, and IAM roles.
