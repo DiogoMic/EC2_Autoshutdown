@@ -64,3 +64,25 @@ Now lets head over to the AWS lambda page, on your AWS management console page s
     
 4. Create a Schedule using Event Bridge:
 Create a schedule rule that triggers the Lambda function periodically ( every 15 minutes).
+<img width="277" alt="Screenshot 2023-10-19 at 18 23 04" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/2681f991-940f-4ac9-b8dd-b9cadb6e6811">
+
+
+<img width="829" alt="Screenshot 2023-10-19 at 18 23 17" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/7fccb3f4-3505-42b7-8223-718fefc2cab4">
+
+
+<img width="826" alt="Screenshot 2023-10-19 at 18 24 11" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/663fe26f-627e-46b8-9d0a-2ff6f55f30f0">
+
+
+<img width="835" alt="Screenshot 2023-10-19 at 18 24 42" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/18168655-ceda-492d-8c17-30f41e4474f2">
+
+
+<img width="891" alt="Screenshot 2023-10-19 at 18 25 44" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/2f91c742-3cd2-4b59-aca0-12b4466f110b">
+
+
+<img width="823" alt="Screenshot 2023-10-19 at 18 26 08" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/d8712c91-bf2e-4980-9be6-45f4ae4e7d8e">
+
+
+<img width="847" alt="Screenshot 2023-10-19 at 18 26 39" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/a25d112f-ede7-4eac-b2a9-453627b72fce">
+
+
+<img width="821" alt="Screenshot 2023-10-19 at 18 26 59" src="https://github.com/McTello/EC2_Autoshutdown/assets/89931817/6f366a19-86dd-4ad1-a21d-3b293d9e9e78">
