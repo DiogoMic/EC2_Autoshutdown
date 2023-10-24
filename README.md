@@ -99,3 +99,4 @@ Under permission in execution role select â€œCreate new role for this scheduleâ€
 
 
 Review and create!!!.
+Congratulations you successfully setup a lambda function that shutdown an EC2 Instance that has been idle for more than 30 minutes.
